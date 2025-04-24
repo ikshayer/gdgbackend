@@ -1,0 +1,6 @@
+flask
+flask-cors
+google
+google-generativeai
+googlemaps
+dotenv
